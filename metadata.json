@@ -1,0 +1,5 @@
+{
+  "name": "TacoDash - Food Delivery",
+  "description": "A visually appealing and functional UI clone of a taco delivery application, built with React, TypeScript, and Tailwind CSS. It features a responsive design for mobile and desktop, with screens for login/signup, a main dashboard with recommended items, and a detailed product view.",
+  "requestFramePermissions": []
+}
